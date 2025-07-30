@@ -43,6 +43,8 @@ nav {
   div {
     margin-bottom: 10px;
   }
+
+  .analysisForm {margin-left: 20px;}
   
   label {
     display: inline-block;
